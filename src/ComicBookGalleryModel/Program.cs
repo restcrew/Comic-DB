@@ -21,7 +21,7 @@ namespace ComicBookGalleryModel
                 var comicBookId = 1;
 
                 var comicBook1 = context.ComicBooks.Find(comicBookId);
-                var comicBook2 = context.ComicBooks.Find(comicBookId;)
+                var comicBook2 = context.ComicBooks.Find(comicBookId);
 
 
 
